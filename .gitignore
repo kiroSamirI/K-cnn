@@ -1,0 +1,14 @@
+.DS_Store
+._*
+
+*.pyc
+build/
+dist/
+*.egg-info/
+
+*.caffemodel
+
+result/
+results_test*/
+tmp/
+junk/
